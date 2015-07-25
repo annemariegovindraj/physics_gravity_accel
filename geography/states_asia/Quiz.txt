@@ -1,0 +1,23 @@
+asia_pol.gif$Name the country marked with * and coloured pink$Russia$China$India$Japan$Indonesia$209$126$
+asia_pol.gif$Name the country marked with * and coloured pink$Malaysia$China$Philippines$Japan$Indonesia$253$310$
+asia_pol.gif$Name the country marked with * and coloured pink$Sri Lanka$Pakistan$India$Maldives$Indonesia$164$297$
+asia_pol.gif$Name the country marked with * and coloured pink$South-Korea$Russia$China$Japan$Indonesia$315$174$
+asia_pol.gif$Name the country marked with * and coloured yellow$China$India$Japan$Russia$Taiwan$249$208$
+asia_pol.gif$Name the country marked with * and coloured yellow$Indonesia$Japan$South-Korea$Philippines$Taiwan$256$333$
+asia_pol.gif$Name the country marked with * and coloured blue$Myanmar$China$India$Thailand$Taiwan$222$251$
+asia_pol.gif$Name the country marked with * and coloured orange$Philippines$Malaysia$Indonesia$Japan$Taiwan$321$251$
+asia_pol.gif$Name the country marked with * and coloured green$Japan$China$Indonesia$Philippines$Taiwan$346$158$
+asia_pol.gif$Name the country marked with * and coloured green$India$China$Nepal$Japan$Russia$156$236$
+asia_pol.gif$Name the country marked with * and coloured orange$Bangladesh$China$India$Pakistan$Myanmar$200$241$
+asia_pol.gif$Name the country marked with * and coloured blue$Kazakstan$Russia$China$Afghanistan$Pakistan$147$151$
+asia_pol.gif$Name the country marked with * and coloured blue$Nepal$Kazakstan$Russia$China$Pakistan$185$229$
+asia_pol.gif$Name the country marked with * and coloured blue$Afghanistan$Kazakstan$Russia$Iran$Pakistan$130$195$
+asia_pol.gif$Name the country marked with * and coloured cream$Pakistan$Iran$China$Afghanistan$Nepal$125$218$
+asia_pol.gif$Name the country marked with * and coloured blue$Saudi Arabia$Iraq$Israel$Afghanistan$Iran$43$202$
+asia_pol.gif$Name the country marked with * and coloured pink$Yemen$Saudi Arabia$Iraq$Oman$Iran$43$239$
+asia_pol.gif$Name the country marked with * and coloured green$Oman$Saudi Arabia$Iraq$Yemen$Iran$81$235$
+asia_pol.gif$Name the country marked with * and coloured pink$Iran$Saudi Arabia$Iraq$Israel$Pakistan$94$189$
+asia_pol.gif$Name the country marked with * and coloured yellow$Iraq$Saudi Arabia$Israel$Afghanistan$Iran$61$173$
+asia_pol.gif$Name the country marked with * and coloured green$Turkey$Greece$Saudi Arabia$Iraq$Iran$53$140$
+asia_pol.gif$Name the country marked with * and coloured green$Thailand$Philippines$Malaysia$Indonesia$Taiwan$244$266$
+asia_pol.gif$Name the country marked with * and coloured blue$Maldives$Philippines$Malaysia$Indonesia$Madagascar$132$306$

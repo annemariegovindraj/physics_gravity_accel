@@ -1,0 +1,34 @@
+GiantMalabarSquirrel.jpg$Name this animal$Giant Malabar Squirrel$Red Panda$Rabbit$Sloth$Hare$
+Dragonfly.jpg$Name this animal$Dragonfly$Butterfly$Mosquito$Cockroach$Moth$
+Dromadary.jpg$Name this animal$One-humped camel$Bactrian Camel$Llama$Gaur$Giraffe$
+Gaur.jpg$Name this animal$Gaur$Cow$One-humped camel$Llama$Hyena$
+Cobra.jpg$Name this animal$Indian Cobra$Ratsnake$Lizard$Viper$Komodo Dragon$
+Barnowl.jpg$Name this animal$Barnowl$Vulture$Eagle$Hawk$Swallow$
+PolarBear.jpg$Name this animal$Polar Bear$Sloth Bear$Polar Fox$Sun Bear$Spectacled Bear$
+whiteTigerSingapore.jpg$Name this animal$White Tiger$Bengal Tiger$Lioness$Leopard$Cheetah$
+Koala.jpg$Name this animal$Koala$Sloth Bear$Fox$Spectacled Bear$Red Panda$
+peacock.jpg$Name this animal$Peacock$Parrot$Crow$Eagle$Owl$
+Spotted_Deer.jpg$Name this animal$Spotted Deer$Antilope$Gaur$Red Deer$Mouse Deer$
+Tiger_westernghats.jpg$Name this animal$Tiger$Puma$Lion$Leopard$Cheetah$
+indian_elephant.jpg$Name this animal$Indian Elephant$African Elephant$Indian Rhinoceros$Mammoth$Hippopotamus$
+lionness.jpg$Name this animal$Lioness$Tiger$Puma$Leopard$Cheetah$
+baboon.jpg$Name this animal$Baboon$Chimpanzee$Gibbon$Rhesus Macaque$Langur$
+cheetah.jpg$Name this animal$Cheetah$Lion$Tiger$Jaguar$Leopard$
+african_elephant.jpg$Name this animal$African Elephant$Rhinoceros$Hippopotamus$Indian Elephant$Warthog$
+giraffe.jpg$Name this animal$Giraffe$Antilope$Gazelle$Llama$Camel$
+Ibex.jpg$Name this animal$Ibex$Kudu Antilope$Blackbuck$Thomson's gazelle$Gaur$
+lion.jpg$Name this animal$Lion$Tiger$Puma$Leopard$Cheetah$
+Vulture.jpg$Name this animal$Vulture$Eagle$Hawk$Swallow$Owl$
+woodpecker.jpg$Name this animal$Woodpecker$Eagle$Falcon$Swallow$Parrot$
+warthog.jpg$Name this animal$Warthog$Buffalo$Hippopotamus$Wild Boar$Cow$
+zebra.jpg$Name this animal$Zebra$Horse$Camel$Llama$Tiger$
+rhino.jpg$Name this animal$Rhinoceros$Hippopotamus$Indian Elephant$African Elephant$Wild Boar$
+hippo.jpg$Name this animal$Hippopotamus$Indian Elephant$African Elephant$Indian Rhinoceros$Black Rhinoceros$
+kudu_antilope.jpg$Name this animal$Kudu Antilope$Blackbuck$Thomson's gazelle$Gaur$Ibex$
+RedPanda.jpg$Name this animal$Red Panda$Koala$Sloth$Giant Panda$Sun Bear$
+orangoutan.jpg$Name this animal$Orang-Utan$Gorilla$Baboon$Chimpanzee$Gibbon$
+Gorilla.jpg$Name this animal$Gorilla$Orang-Utan$Baboon$Chimpanzee$Gibbon$
+Gibbon.jpg$Name this animal$Gibbon$Orang-Utan$Gorilla$Baboon$Chimpanzee$
+bonobo.jpg$Name this animal$Chimpanzee$Orang-Utan$Gorilla$Baboon$Gibbon$
+Red_Kangaroo.jpg$Name this animal$Red Kangaroo$Walibi$Giraffe$Antilope$Camel$
+red_squirrel.JPG$Name this animal$Squirrel$Rabbit$Mongoose$Rat$Mouse$

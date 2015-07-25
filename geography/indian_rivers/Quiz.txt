@@ -1,0 +1,11 @@
+indianRivers.jpg$Which river is marked with *$Narmada$Ganga$Yamuna$Brahmaputra$Godavari$108$216$
+indianRivers.jpg$Which river is marked with *$Brahmaputra$Ganga$Yamuna$Tapi$Godavari$420$150$
+indianRivers.jpg$Which river is marked with *$Ganga$Narmada$Yamuna$Brahmaputra$Godavari$186$98$
+indianRivers.jpg$Which river is marked with *$Kaveri$Krishna$Mahanadi$Narmada$Godavari$172$398$
+indianRivers.jpg$Which river is marked with *$Yamuna$Ganga$Brahmaputra$Tapi$San$211$142$
+indianRivers.jpg$Which river is marked with *$Krishna$Narmada$Kaveri$Mahanadi$Godavari$190$315$
+indianRivers.jpg$Which river is marked with *$Mahanadi$Narmada$Kaveri$Krishna$Godavari$276$224$
+indianRivers.jpg$Which river is marked with *$Godavari$Narmada$Mahanadi$Krishna$Kaveri$206$271$
+indianRivers.jpg$Which river is marked with *$Son$Yamuna$Ganga$Satluj$Indus$269$174$
+indianRivers.jpg$Which river is marked with *$Satluj$Son$Yamuna$Ganga$Indus$157$50$
+indianRivers.jpg$Which river is marked with *$Ghaghara$Son$Yamuna$Ganga$Padma$258$135$

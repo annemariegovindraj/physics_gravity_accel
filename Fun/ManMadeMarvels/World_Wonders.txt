@@ -1,0 +1,22 @@
+Machu-Picchu.jpg$ This is a picture of  : $Machu Picchu in Peru$Chichen Itza in Mexico$Copacabana in Rio de Janeiro, Brasil$Easter Islands in Equador$Angkhor Vat in Cambodia$
+AcropolisinAthens.jpg$This is a picture of :$Acropolis in Athens, Greece$Empire State Building in New York$Stonehenge in United Kingdom$Colosseum in Rome, Italy$Eiffel Tower in Paris, France$
+angkor.jpg$This is a picture of :$Angkhor Vat in Cambodia$Machu Picchu in Peru$Chichen Itza in Mexico$Copacabana in Rio de Janeiro, Brasil$Easter Islands in Equador$
+taj_mahal.jpg$This is a picture of :$Taj Mahal in Agra, India$Acropolis in Athens, Greece$Angkhor Vat in Cambodia$Machu Picchu in Peru$Chichen Itza in Mexico$
+Eiffel_Tow.jpg$This is a picture of :$Eiffel Tower in Paris, France$Acropolis in Athens, Greece$Empire State Building in New York$Stonehenge in United Kingdom$Colosseum in Rome, Italy$
+Colosseum_Rome.jpg$This is a picture of :$Colosseum in Rome, Italy$Acropolis in Athens, Greece$Stonehenge in United Kingdom$Eiffel Tower in Paris, France$Angkhor Vat in Cambodia$
+sphinx_of_giza.jpg$This is a picture of :$Sphinx in Gizah, Egypt$Pyramids in Gizah, Egypt$Colosseum in Rome, Italy$Acropolis in Athens, Greece$Stonehenge in United Kingdom$
+pyramids01.jpg$This is a picture of :$Pyramids in Gizah, Egypt$Colosseum in Rome, Italy$Acropolis in Athens, Greece$Stonehenge in United Kingdom$Sphinx in Gizah, Egypt$
+great_wall_china.jpg$This is a picture of :$The Great Wall of China$Angkhor Vat in Cambodia$Machu Picchu in Peru$Chichen Itza in Mexico$Stonehenge in United Kingdom$
+EasterIsland.jpg$This is a picture of :$Easter Islands in Equador$Angkhor Vat in Cambodia$Machu Picchu in Peru$Chichen Itza in Mexico$Sphinx in Gizah, Egypt$
+Konarak_sun_temple.jpg$This is a picture of :$Sun Temple in Konark, India$Channakeshara Temple,Somnathpur, India$Golden Temple, Amritsar, India$Meenakshi Temple, Madurai, India$Ajanta Caves, India$
+Empire_State_Building.jpg$This is a picture of :$Empire State ,New York, USA$Petronas Towers, Kuala Lumpur, Malaysia$Eiffel Tower in Paris, France$Statue of Liberty in New York, USA$Colosseum in Rome, Italy$
+Ellora.jpg$This is a picture of :$Kailasa Temple in Ellora, India$Golden Temple, Amritsar, India$Meenakshi Temple, Madurai, India$Ajanta Caves, India$Qutub Minar in Delhi, India$
+Petronas_towers.jpg$This is a picture of :$Petronas Towers, Kuala Lumpur, Malaysia$Wall Street in New York, USA$Eiffel Tower in Paris, France$Colosseum in Rome, Italy$Angkhor Vat in Cambodia$
+ajanta-caves1.jpg$This is a picture of :$Ajanta Caves, India$Meenakshi Temple in Madurai, India$Qutub Minar in Delhi, India$Kailasa Temple in Ellora, India$Taj Mahal in Agra, India$
+qutub_Minar.jpg$This is a picture of :$Qutub Minar in Delhi, India$Red Fort of Delhi, India$Golden Temple in Amritsar, India$Jama Masjid in Delhi, India$Taj Mahal in Agra, India$
+amritsar_golden_temple.jpg$This is a picture of :$Golden Temple in Amritsar, India$Kailasa Temple in Ellora, India$Taj Mahal in Agra, India$Red Fort of Delhi, India$Qutub Minar in Delhi, India$
+madurai.jpg$This is a picture of :$Meenakshi Temple in Madurai, India$Golden Temple in Amritsar, India$Red Fort of Delhi, India$Kailasa Temple in Ellora, India$Khadjuraho Temples, India$
+red_fort.jpg$This is a picture of :$Red Fort of Delhi, India$Qutub Minar in Delhi, India$Golden Temple in Amritsar, India$Kailasa Temple in Ellora, India$Jami Masjid in Delhi, India$
+sanchi.jpg$This is a picture of :$Stupa of Sanchi, India$Qutub Minar, Delhi,India$Sun Temple in Konark, India$Meenakshi Temple, Madurai, India$Ajanta Caves, India$
+temple-kukulkan.jpg$This is a picture of :$Chichen Itza in Mexico$Easter Islands in Equador$Angkhor Vat in Cambodia$Machu Picchu in Peru$Pyramids in Gizah, Egypt$
+hawa_mahal.jpg$This is a picture of :$Hawa Mahal, Jaipur, India$Red Fort of Delhi, India$Qutub Minar in Delhi, India$Kailasa Temple in Ellora, India$Jami Masjid in Delhi, India$

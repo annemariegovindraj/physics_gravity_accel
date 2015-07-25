@@ -1,0 +1,28 @@
+India_states2.jpg$Name the state marked with *$Maharasthra$Karnataka$Andhra Pradesh$Orissa$Jharkhand$137$381$
+India_states2.jpg$Name the state marked with *$Karnataka$Maharasthra$Kerala$Andhra Pradesh$Tamil Nadu$137$472$
+India_states2.jpg$Name the state marked with *$Goa$Pondicherry$Karnataka$Maharasthra$Kerala$101$458$
+India_states2.jpg$Name the state marked with *$Uttar Pradesh$Rajasthan$Uttaranchal$Jharkhand$Madhya Pradesh$243$235$
+India_states2.jpg$Name the state marked with *$Jammu and Kashmir$Uttaranchal$Uttar Pradesh$Himachal Pradesh$Punjab$147$89$
+India_states2.jpg$Name the state marked with *$Rajasthan$Punjab$Pakistan$Gujarat$Uttar Pradesh$102$236$
+India_states2.jpg$Name the state marked with *$Punjab$Jammu and Kashmir$Rajasthan$Gujarat$Uttar Pradesh$142$160$
+India_states2.jpg$Name the state marked with *$West Bengal$Assam$Bangladesh$Sikkim$Orissa$361$316$
+India_states2.jpg$Name the state marked with *$Andhra Pradesh$Kerala$Karnataka$Maharasthra$Tamil Nadu$200$456$
+India_states2.jpg$Name the state marked with *$Orissa$Jharkhand$Madhya Pradesh$Chhattisgarh$Bihar$$306$361$
+India_states2.jpg$Name the state marked with *$Jharkhand$Orissa$Madhya Pradesh$Chhattisgarh$Bihar$310$307$
+India_states2.jpg$Name the state marked with *$Madhya Pradesh$Maharasthra$Uttar Pradesh$Rajasthan$Gujarat$182$309$
+India_states2.jpg$Name the state marked with *$Kerala$Karnataka$Maharasthra$Andhra Pradesh$Tamil Nadu$143$562$
+India_states2.jpg$Name the state marked with *$Tamil Nadu$Karnataka$Maharasthra$Kerala$Andhra Pradesh$180$549$
+India_states2.jpg$Name the state marked with *$Tripura$Manipur$Mizoram$Nagaland$Meghalaya$425$284$
+India_states2.jpg$Name the state marked with *$Manipur$Assam$Mizoram$Nagaland$Meghalaya$461$265$
+India_states2.jpg$Name the state marked with *$Haryana$Uttaranchal$Punjab$Uttar Pradesh$Goa$155$188$
+India_states2.jpg$Name the state marked with *$Arunachal Pradesh$Manipur$Assam$Himachal Pradesh$Meghalaya$464$192$
+India_states2.jpg$Name the state marked with *$Uttaranchal$Himachal Pradesh$Uttar Pradesh$Chhattisgarh$Punjab$206$165$
+India_states2.jpg$Name the state marked with *$Chhattisgarh$Bihar$Orissa$Jharkhand$Madhya Pradesh$265$321$
+India_states2.jpg$Name the state marked with *$Bihar$Orissa$Jharkhand$Madhya Pradesh$Chhattisgarh$315$250$
+India_states2.jpg$Name the state marked with *$Sikkim$Arunachal Pradesh$Manipur$Assam$Himachal Pradesh$362$214$
+India_states2.jpg$Name the state marked with *$Meghalaya$Manipur$Assam$Mizoram$Nagaland$405$252$
+India_states2.jpg$Name the state marked with *$Mizoram$Manipur$Assam$Tripura$Nagaland$446$291$
+India_states2.jpg$Name the state marked with *$Nagaland$Manipur$Assam$Mizoram$Manipur$471$237$
+India_states2.jpg$Name the state marked with *$Tripura$Manipur$Assam$Mizoram$Nagaland$425$284$
+India_states2.jpg$Name the state marked with *$Assam$West Bengal$Arunachal Pradesh$Meghalaya$Sikkim$443$234$
+India_states2.jpg$Name the state marked with *$Himachal Pradesh$Uttaranchal$Uttar Pradesh$Chhattisgarh$Punjab$176$137$

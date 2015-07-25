@@ -1,0 +1,18 @@
+body
+{
+ background-color:#43e3b4;
+ font-family:Verdana;
+ color:black;
+ }
+ a:link {color: black;}
+  a:visited{color=green} 
+ a:active{color:red}
+td{
+	padding:8px;
+}
+h2{text-align:center;} 
+h3{text-align:left;}
+td:first-child {font-size:22;text-align:left;}
+td:first-child+td {font-size:18;text-align:left;}
+td:first-child+td+td {font-size:18;text-align:left;}
+}
